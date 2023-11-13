@@ -4,7 +4,7 @@ I'm a Software Developer who's really good at making attractive and user-friendl
 Currently, I’m developing in full-stack development as well - node.js, and SQL joins my skill set. I'm eager to work with amazing people, solve tough problems, and make solutions that really matter.
 
 ### Tech Stack
-![atom](https://github.com/HubertKlamann/HubertKlamann/assets/125998242/fff0d7a2-2437-407b-beaa-b93313c9c6d8)
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/HubertKlamann/HubertKlamann/assets/125998242/fff0d7a2-2437-407b-beaa-b93313c9c6d8" height="100" /></a>
 ![typescript](https://github.com/HubertKlamann/HubertKlamann/assets/125998242/ba3184d1-97f2-4670-911f-35d7eb1b64b1)
 ![js](https://github.com/HubertKlamann/HubertKlamann/assets/125998242/0fd6dcde-e889-4cd2-8863-b0ac4e385419)
 
