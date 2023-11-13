@@ -12,6 +12,11 @@ Currently, I’m developing in full-stack development as well - node.js, and SQL
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/HubertKlamann/HubertKlamann/assets/125998242/40afbd40-80d7-49a7-986e-de10f70e3853" height="100" /></a>
 
 ### Projects
+<ul>
+  <li><a href="https://hubertklamann.github.io/landing_store-nothing/">Landing Page</a></li>
+  <li><a href="https://hubertklamann.github.io/todo-app/">Todo App</a></li>
+  <li><a href="https://dreamteam-pl.github.io/product_catalog/">Product Catalog</a></li>
+</ul>
 <a href="https://hubertklamann.github.io/landing_store-nothing/">Landing Page</a>
 <a href="https://hubertklamann.github.io/todo-app/">Todo App</a>
-<a href="[URL_REDIRECT](https://dreamteam-pl.github.io/product_catalog/)">Product Catalog</a>
+<a href="https://dreamteam-pl.github.io/product_catalog/">Product Catalog</a>
